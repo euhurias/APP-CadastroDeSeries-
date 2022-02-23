@@ -1,0 +1,15 @@
+/home/hurias/Documents/CadastroDeSeries/bin/Debug/net6.0/Series
+/home/hurias/Documents/CadastroDeSeries/bin/Debug/net6.0/Series.deps.json
+/home/hurias/Documents/CadastroDeSeries/bin/Debug/net6.0/Series.runtimeconfig.json
+/home/hurias/Documents/CadastroDeSeries/bin/Debug/net6.0/Series.dll
+/home/hurias/Documents/CadastroDeSeries/bin/Debug/net6.0/Series.pdb
+/home/hurias/Documents/CadastroDeSeries/obj/Debug/net6.0/Series.csproj.AssemblyReference.cache
+/home/hurias/Documents/CadastroDeSeries/obj/Debug/net6.0/Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/hurias/Documents/CadastroDeSeries/obj/Debug/net6.0/Series.AssemblyInfoInputs.cache
+/home/hurias/Documents/CadastroDeSeries/obj/Debug/net6.0/Series.AssemblyInfo.cs
+/home/hurias/Documents/CadastroDeSeries/obj/Debug/net6.0/Series.csproj.CoreCompileInputs.cache
+/home/hurias/Documents/CadastroDeSeries/obj/Debug/net6.0/Series.dll
+/home/hurias/Documents/CadastroDeSeries/obj/Debug/net6.0/refint/Series.dll
+/home/hurias/Documents/CadastroDeSeries/obj/Debug/net6.0/Series.pdb
+/home/hurias/Documents/CadastroDeSeries/obj/Debug/net6.0/Series.genruntimeconfig.cache
+/home/hurias/Documents/CadastroDeSeries/obj/Debug/net6.0/ref/Series.dll
